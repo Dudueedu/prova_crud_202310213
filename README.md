@@ -1,16 +1,16 @@
-# prova_crud_202310213
+# Prova Prática Flutter + SQLite
 
-A new Flutter project.
+**Dupla:**
+- Eduardo Salvador Itipão (RA: 202310213)
+- João Vitor Rodrigues Gotardi (RA: 202310054)
 
-## Getting Started
+**Configuração Utilizada (Baseada no RA 202310213):**
+- **Tema:** temaOcean (Teal + CyanAccent)
+- **Campo Personalizado:** etapaFluxo
+- **Banco de Dados:** tarefas_202310213.db
 
-This project is a starting point for a Flutter application.
+**Descrição:**
+Aplicativo de cadastro de tarefas profissionais desenvolvido para a Prova Prática de Computação Móvel. Implementa CRUD completo utilizando SQLite.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Dificuldades Encontradas:**
+Acredito que a maior dificuldade tenha sido com a parte dos commits.
